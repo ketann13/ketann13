@@ -14,6 +14,7 @@ for real-world problem solving.
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-5a2d7a20-3a8a-4a72-bba1-65f98f5e2f0a.gif" width="100%">
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -46,6 +47,7 @@ for real-world problem solving.
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-5a2d7a20-3a8a-4a72-bba1-65f98f5e2f0a.gif" width="100%">
 ## 🎯 Core Areas
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
@@ -63,19 +65,25 @@ for real-world problem solving.
 ---
 
 ## 🏆 Achievements
-- 🥈 2nd Place — GitLab CodeForge Hackathon, IIT Bombay
-- 🥈 2nd Place — ZBrain Hackathon, IIT Jodhpur
-- 🥈 Runner-up — National-Level Hackathon
-- 💻 Solved 600+ DSA problems
+- 🥈 **2nd Place** — GitLab CodeForge Hackathon, IIT Bombay (800+ teams)
+- 🥈 **2nd Place** — ZBrain Hackathon, IIT Jodhpur
+- 🥈 **Runner-up** — National-Level Hackathon (70+ teams)
+- 💻 Solved **600+ DSA problems** across LeetCode, GFG & Codeforces
 
 ---
 
 ## 🌱 Current Focus
-- Designing scalable Multi-Agent AI workflows
-- Improving RAG retrieval accuracy
-- Exploring local & offline LLM deployments
+- Designing scalable **Multi-Agent AI workflows**
+- Improving **retrieval accuracy & grounding in RAG systems**
+- Exploring **local & offline LLM deployments**
 
 ---
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/ketann13/ketann13/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+📫 **Contact**
+- 📧 Email: ketan481632@gmail.com  
+- 🔗 LinkedIn: *(add link here)*
