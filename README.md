@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 
-Computer Engineering student at SPPU, Pune, passionate about building **AI systems, RAG pipelines, and Multi-Agent architectures**.  
-I enjoy solving real-world problems using machine learning, NLP, and scalable backend systems.
+Computer Engineering student at SPPU, Pune, focused on building **AI-driven systems**,  
+**RAG pipelines**, and **Multi-Agent architectures** for real-world applications.
 
 ---
 
@@ -25,15 +25,21 @@ I enjoy solving real-world problems using machine learning, NLP, and scalable ba
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
 
-### Tools & Databases
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+### Vector Databases & RAG Tools
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge)
 
 ---
 
@@ -41,7 +47,7 @@ I enjoy solving real-world problems using machine learning, NLP, and scalable ba
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
 - Machine Learning & Deep Learning  
-- NLP, RAG, Multi-Agent Systems  
+- NLP, RAG & Multi-Agent Systems  
 - Web Development & REST APIs  
 
 ---
@@ -49,26 +55,26 @@ I enjoy solving real-world problems using machine learning, NLP, and scalable ba
 ## 📂 Featured Projects
 
 - 🤖 **RecallAI** — Multi-Agent Personalized Learning Assistant  
-- 📄 **Offline RAG Chatbot** — Local document question answering system  
+- 📄 **Offline RAG Chatbot** — Local Document Question Answering System  
 - 🚰 **AI-Powered Water Leak & Pipeline Damage Detection**  
 
 ---
 
 ## 🏆 Achievements
 - 🥈 2nd Place — GitLab CodeForge Hackathon, IIT Bombay (800+ teams)
-- 🥈 2nd Place — ZBrain Hackathon (Prometeo’26, IIT Jodhpur)
+- 🥈 2nd Place — ZBrain Hackathon, IIT Jodhpur
 - 🥈 Runner-up — National-Level Hackathon (70+ teams)
-- 💻 Solved **600+ DSA problems** across LeetCode, GFG, and Codeforces
+- 💻 Solved **600+ DSA problems** across LeetCode, GFG & Codeforces
 
 ---
 
 ## 🌱 Current Focus
-- Building advanced **Multi-Agent AI systems**
-- Improving **RAG retrieval & grounding**
-- Exploring **offline & local LLM deployments**
+- Designing scalable **Multi-Agent AI workflows**
+- Improving **retrieval accuracy & grounding in RAG systems**
+- Exploring **local & offline LLM deployments**
 
 ---
 
-📫 **Reach Me**  
-- LinkedIn: *(add link)*  
-- Email: ketan481632@gmail.com
+📫 **Contact**
+- Email: ketan481632@gmail.com  
+- LinkedIn: *(add link here)*
