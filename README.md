@@ -11,7 +11,6 @@
 Computer Engineering student at **SPPU, Pune**, focused on building  
 **AI-driven systems**, **RAG pipelines**, and **Multi-Agent architectures**  
 for real-world problem solving.
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-5a2d7a20-3a8a-4a72-bba1-65f98f5e2f0a.gif" width="100%">
