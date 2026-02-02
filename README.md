@@ -26,7 +26,7 @@ Computer Engineering student at **SPPU, Pune**, focused on building **AI-driven 
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flask,tensorflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,flask,tensorflow&perline=8" />
 </p>
 
 - LangChain
