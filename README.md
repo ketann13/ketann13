@@ -19,14 +19,14 @@ Computer Engineering student at **SPPU, Pune**, focused on building **AI-driven 
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming Languages (Logos)
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&perline=8" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,tensorflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flask,tensorflow&perline=8" />
 </p>
 
 - LangChain
