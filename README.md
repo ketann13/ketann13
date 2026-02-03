@@ -13,8 +13,9 @@
 ---
 
 ## 🚀 About Me
-Computer Engineering student at **SPPU, Pune**, focused on building **AI-driven systems**,
-**RAG pipelines**, and **multi-agent architectures** that solve real-world problems.
+Computer Engineering student at **SPPU, Pune**, passionate about building **AI-driven systems**,
+**RAG pipelines**, and **multi-agent architectures** that solve real-world problems. I enjoy turning
+ideas into practical, scalable products and constantly learning new tools to improve impact.
 ---
 
 ## 🛠️ Technical Skills
